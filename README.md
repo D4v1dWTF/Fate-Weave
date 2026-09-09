@@ -54,7 +54,9 @@
 OpenAI	https://api.openai.com/v1	gpt-3.5-turbo
 DeepSeek	https://api.deepseek.com	deepseek-chat
 自訂	依你的服務提供者	依你的模型
+
 > 💡 **免費 API 金鑰**：可使用 [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) 獲取免費的 API 金鑰，支援 GPT、DeepSeek 等模型。詳細請參考該專案說明。
+
 📁 專案結構
 text
 .
@@ -136,7 +138,9 @@ Provider	Base URL	Suggested Model
 OpenAI	https://api.openai.com/v1	gpt-3.5-turbo
 DeepSeek	https://api.deepseek.com	deepseek-chat
 Custom	Your provider's URL	Your model
+
 > 💡 **Free API Key**: You can obtain a free API key via [GPT_API_free](https://github.com/chatanywhere/GPT_API_free), which supports models like GPT and DeepSeek. Please refer to that project for details.
+
 📁 Project Structure
 text
 .
