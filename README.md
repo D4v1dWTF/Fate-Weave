@@ -1,6 +1,6 @@
 # 🧵 Fate Weave — 人生模擬 RPG
 
-> [中文](#-中文版) | [English](#english-version)
+> [中文](#-中文版) | [English](#-english-version)
 
 ---
 
