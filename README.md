@@ -178,6 +178,5 @@ May your web of fate weave the most beautiful story. 🌌
 
 Made with ❤️
 
-text
 
 ---
