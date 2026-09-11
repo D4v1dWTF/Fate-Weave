@@ -59,15 +59,7 @@ DeepSeek	https://api.deepseek.com	deepseek-chat
 
 > 💡 **免費 API 金鑰**：可使用 [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) 獲取免費的 API 金鑰，支援 GPT、DeepSeek 等模型。詳細請參考該專案說明。
 
-📁 專案結構
-text
-.
-├── main.py          # 入口點
-├── data.py          # 靜態資料（NPC、事件、特徵等）
-├── core.py          # 核心邏輯（Player、AI、引擎）
-├── ui.py            # 使用者介面
-├── config_gui.json  # 執行後自動產生（請勿上傳）
-└── codex_data.json  # 執行後自動產生（請勿上傳）
+
 🔒 隱私與安全
 所有 API 金鑰僅儲存於本機 config_gui.json。
 
@@ -145,15 +137,7 @@ Custom	Your provider's URL	Your model
 
 > 💡 **Free API Key**: You can obtain a free API key via [GPT_API_free](https://github.com/chatanywhere/GPT_API_free), which supports models like GPT and DeepSeek. Please refer to that project for details.
 
-📁 Project Structure
-text
-.
-├── main.py          # Entry point
-├── data.py          # Static data (NPCs, events, traits, etc.)
-├── core.py          # Core logic (Player, AI, Engine)
-├── ui.py            # User interface
-├── config_gui.json  # Auto-generated (do not upload)
-└── codex_data.json  # Auto-generated (do not upload)
+
 🔒 Privacy & Security
 All API keys are stored locally in config_gui.json.
 
