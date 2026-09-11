@@ -60,25 +60,25 @@ DeepSeek	https://api.deepseek.com	deepseek-chat
 > 💡 **免費 API 金鑰**：可使用 [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) 獲取免費的 API 金鑰，支援 GPT、DeepSeek 等模型。詳細請參考該專案說明。
 
 
-##🔒 隱私與安全
+## 🔒 隱私與安全
 所有 API 金鑰僅儲存於本機 config_gui.json。
 
 程式僅呼叫你設定的 AI 服務，無其他網路請求。
 
 所有 AI 生成內容經過安全過濾。
 
-##📄 授權
+## 📄 授權
 本專案採用 MIT License，歡迎自由使用、修改、散佈。
 
-##🤝 貢獻
+## 🤝 貢獻
 歡迎提交 Issue 或 Pull Request！請確保內容安全限制與程式碼風格一致。
 
-##✨ 特別感謝
+## ✨ 特別感謝
 所有測試與提供建議的朋友
 
 願你的命運之網，編織出最美的故事。 🌌
 
-＊本遊戲使用 AI 生成部分敘事內容，所有生成內容均經過內容安全過濾，適合全年齡層。無 AI 服務時亦可使用靜態事件完整遊玩。*
+＊* 本遊戲使用 AI 生成部分敘事內容，所有生成內容均經過內容安全過濾，適合全年齡層。無 AI 服務時亦可使用靜態事件完整遊玩。 **
 
 ## 🌟 English Version
 
@@ -136,26 +136,26 @@ Custom	Your provider's URL	Your model
 > 💡 **Free API Key**: You can obtain a free API key via [GPT_API_free](https://github.com/chatanywhere/GPT_API_free), which supports models like GPT and DeepSeek. Please refer to that project for details.
 
 
-##🔒 Privacy & Security
+## 🔒 Privacy & Security
 All API keys are stored locally in config_gui.json.
 
 The program only calls your configured AI service — no other network requests.
 
 All AI-generated content is filtered for safety.
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
-##🤝 Contributions
+## 🤝 Contributions
 Issues and Pull Requests are welcome! Please ensure content safety guidelines and code style are maintained.
 
-##✨ Special Thanks
+## ✨ Special Thanks
 All testers and contributors
 
 
 May your web of fate weave the most beautiful story. 🌌
 
-*This game uses AI to generate partial narrative content. All generated content is filtered for safety and is suitable for all ages. The game is fully playable without AI services using static events.*
+** This game uses AI to generate partial narrative content. All generated content is filtered for safety and is suitable for all ages. The game is fully playable without AI services using static events. **
 
 Made with ❤️
 
