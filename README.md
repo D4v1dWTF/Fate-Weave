@@ -78,7 +78,7 @@ DeepSeek	https://api.deepseek.com	deepseek-chat
 
 願你的命運之網，編織出最美的故事。 🌌
 
-＊* 本遊戲使用 AI 生成部分敘事內容，所有生成內容均經過內容安全過濾，適合全年齡層。無 AI 服務時亦可使用靜態事件完整遊玩。 **
+> 本遊戲使用 AI 生成部分敘事內容，所有生成內容均經過內容安全過濾，適合全年齡層。無 AI 服務時亦可使用靜態事件完整遊玩。
 
 ## 🌟 English Version
 
@@ -155,7 +155,7 @@ All testers and contributors
 
 May your web of fate weave the most beautiful story. 🌌
 
-** This game uses AI to generate partial narrative content. All generated content is filtered for safety and is suitable for all ages. The game is fully playable without AI services using static events. **
+> This game uses AI to generate partial narrative content. All generated content is filtered for safety and is suitable for all ages. The game is fully playable without AI services using static events. 
 
 Made with ❤️
 
